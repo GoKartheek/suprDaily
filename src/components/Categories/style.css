@@ -1,0 +1,15 @@
+.categories-wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 30px 0;
+}
+
+.main {
+  padding: 10px;
+  background: #fff;
+  border: 1px solid lightgray;
+  border-radius: 4px;
+  color: #000;
+  font-size: 12px;
+  margin: 0 5px;
+}
